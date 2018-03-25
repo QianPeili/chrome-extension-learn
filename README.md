@@ -1,3 +1,7 @@
+### LEARN FROM
+
+[Chrome Extension Tutorial - YouTube - YouTube](https://www.youtube.com/playlist?list=PLC3y8-rFHvwg2-q6Kvw3Tl_4xhxtIaNlY)
+
 ### ICON
 
 I got the free icon from 
