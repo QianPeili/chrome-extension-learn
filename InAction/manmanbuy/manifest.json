@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "ManmanBuy",
+    "version": "1.0",
+    "description": "点击直接将当前网页丢入慢慢买进行比价",
+    "icons": {
+        "128": "icon128.png",
+        "48": "icon48.png",
+        "16": "icon16.png"
+    },
+    "browser_action": {
+        "default_icon": "icon16.png"
+    },
+    "background": {
+        "scripts": ["eventPage.js"],
+        "persistent": false
+    },
+    "permissions": [
+        "tabs",
+        "contextMenus"
+    ]
+}
