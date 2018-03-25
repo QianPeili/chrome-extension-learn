@@ -9,7 +9,7 @@ chrome.browserAction.onClicked.addListener(function(tab) {
 
 var menuItem = {
     "id": "searchInManmanBuy",
-    "title": "manmanbuy",
+    "title": "慢慢买比价",
     "contexts": ["selection"]
 };
 
